@@ -1,1 +1,2 @@
-# .github
+# Follow Us
+<https://titanhunters.io>
